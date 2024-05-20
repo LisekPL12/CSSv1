@@ -1,0 +1,22 @@
+/* zabrocki_z22.css */
+
+p {
+    color: red;
+    font-size: 22pt;
+}
+
+#gruby_zabrocki {
+    color: green;
+    font-size: 17pt;
+    font-weight: bold;
+}
+
+#dlawszyskich {
+    color: yellow;
+    font-size: 10pt;
+    font-family: Arial, sans-serif;
+}
+
+.informatyczny {
+    font-style: italic;
+}
