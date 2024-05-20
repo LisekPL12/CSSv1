@@ -1,0 +1,37 @@
+p#pogrubienie_zabrocki {
+    font-size: 33px; 
+    color: #5aa4c6;  
+    font-weight: bold;
+}
+
+p#pochylona_zabrocki {
+    font-size: 38pt; 
+    color: #e13862;
+    font-style: arial;
+}
+
+p#index_gorny_zabrocki {
+    font-size: 1.2cm; 
+    color: #9d6414;
+    vertical-align: super;
+}
+
+p#index_dolny_zabrocki {
+    font-size: 2.1cm; 
+    color: rgb(49%, 74%, 84%);
+    vertical-align: sub;
+}
+
+p#mono_zabrocki {
+    font-size: 43px; 
+    color: #32b443;
+    font-family: monospace;
+}
+
+p#powiekszenie_zabrocki {
+    color: #931197;
+}
+
+p#pomniejszenie_zabrocki{
+    color: rgb(82%, 41%, 14%);
+}
